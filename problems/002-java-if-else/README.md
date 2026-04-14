@@ -4,6 +4,10 @@
 
 In this challenge, we test your knowledge of using `if-else` conditional statements to automate decision-making processes.
 
+## Reference Image
+
+![Java If-Else Screenshot](If-Then-Else-diagram.png)
+
 ## Task
 
 Given an integer `N`, perform the following conditional actions:
